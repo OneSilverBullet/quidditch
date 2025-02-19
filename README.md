@@ -23,6 +23,8 @@ Welcome to our **Quidditch Game**, an **Advanced Gameplay AI Practice** project.
 ## 🎥 Gameplay Demo
 [![Watch the Gameplay Video](https://img.youtube.com/vi/U8ASv-YLN7I/0.jpg)](https://www.youtube.com/watch?v=U8ASv-YLN7I)
 
+**[PLAY ONLINE!](https://yulin-zhang.itch.io/quidditch)**
+
 ## 🛠️ Technologies Used
 - **Game Engine:** Unity Engine
 - **AI Systems:** Behavior Trees, Fuzzy Logic
